@@ -14,4 +14,4 @@ Neste App temos as seguintes possibilidades:
 
 4- Sair do App
 
-Tendo o intuito de demonstrar e práticar sistemas de inclusão em dicionário, alteração de valor de uma chave especifica, e printar valores especificos (como por exemplo nome dos restaurantes)
+Tendo o intuito de demonstrar e práticar sistemas de inclusão em dicionário, alteração de valor de uma chave especifica, e printar valores especificos (como por exemplo nome dos restaurantes), a importancia do try-catch(except), funções ternárias e docstring.
