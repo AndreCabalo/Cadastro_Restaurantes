@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://github.com/AndreCabalo/Cadastro_Restaurantes/assets/103711127/7d5706c8-5834-47d1-b5e5-fb2ba0f916a3" style="width: 25%">
 </p>
+00
+Projeto funcional e OO (Tenho outro projeto similar a este em Orientação a Objeto (OO))
 
 Neste App temos as seguintes possibilidades:
 
